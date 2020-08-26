@@ -1,0 +1,4 @@
+---
+containers: 2
+container_name: docker_flask
+container_image: sabeerz/flask-app1:latest
